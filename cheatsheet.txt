@@ -1,0 +1,4 @@
+Exit file to dir | <leader>pv
+Find files | <leader>pf
+Find in files | <leader>ps
+Find in git files | <C-p>
